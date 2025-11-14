@@ -1,0 +1,16 @@
+{
+  "@context": "https://w3id.org/openbadges/v2",
+  "type": "Assertion",
+  "id": "https://<TUO_USERNAME>.github.io/openbadges/assertion.json",
+  "recipient": {
+    "type": "email",
+    "hashed": true,
+    "salt": "<SALT_AUTOGENERATO>",
+    "identity": "sha256$<HASH_AUTOGENERATO>"
+  },
+  "issuedOn": "2025-11-11T00:00:00Z",
+  "badge": "https://<TUO_USERNAME>.github.io/openbadges/badgeclass.json",
+  "verification": {
+    "type": "Hosted"
+  }
+}
