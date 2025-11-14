@@ -1,15 +1,15 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Assertion",
-  "id": "https://github.com/maxymoc/openbadges/assertion.json",
+  "id": "https://maxymoc.github.io/openbadges/assertion.json",
   "recipient": {
     "type": "email",
     "hashed": true,
-    "salt": "<SALT_AUTOGENERATO>",
-    "identity": "sha256$<HASH_AUTOGENERATO>"
+    "salt": "0cca186b57602f744a19c77d73db36ff",
+    "identity": "sha256$8225ef790dffe5405c3b0c9e93635e46c39166eff987b9b6adc380f3a9a07118"
   },
   "issuedOn": "2025-11-11T00:00:00Z",
-  "badge": "https://github.com/maxymoc/openbadges/badgeclass.json",
+  "badge": "https://maxymoc.github.io/openbadges/badgeclass.json",
   "verification": {
     "type": "Hosted"
   }

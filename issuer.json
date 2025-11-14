@@ -1,7 +1,7 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "Issuer",
-  "id": "https://github.com/maxymoc/openbadges/issuer.json",
+  "id": "https://maxymoc.github.io/openbadges/issuer.json",
   "name": "Alludo / Parallels",
   "url": "https://www.alludo.com",
   "email": "noreply@alludo.com"
