@@ -1,10 +1,10 @@
 {
   "@context": "https://w3id.org/openbadges/v2",
   "type": "BadgeClass",
-  "id": "https://<TUO_USERNAME>.github.io/openbadges/badgeclass.json",
+  "id": "https://github.com/maxymoc/openbadges/badgeclass.json",
   "name": "Parallels RAS Technical Professional (RAS-TP)",
   "description": "Certification for Parallels RAS Technical Professional skills.",
-  "issuer": "https://<TUO_USERNAME>.github.io/openbadges/issuer.json",
+  "issuer": "https://github.com/maxymoc/openbadges/issuer.json",
   "criteria": {
     "narrative": "Successfully completed the Parallels RAS Technical Professional Certification."
   }
